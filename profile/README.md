@@ -5,12 +5,12 @@
   </picture>
 </p>
 
-*Incipit* is Latin for "here begins," the words that open a medieval manuscript. Incipit Labs is an independent software studio in Atlanta, Georgia, founded in 2026.
+Incipit Labs is an independent software studio in Atlanta, Georgia, founded in 2026.
 
 ### Software
 
 - **[Jeronimo](https://jeronimo.app)**. Push-to-talk dictation for the Mac that runs entirely on your computer. Recordings and transcripts stay on the device.
-- **Userland**. A back office for independent developers and early-stage software companies, bringing help desk, license keys and customer accounts together in one place. In development.
+- **Userland**. Something new for independent developers, still in the scriptorium. Unveiling in early 2027.
 
 ### Contact
 
